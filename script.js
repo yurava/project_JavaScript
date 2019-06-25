@@ -31,7 +31,7 @@ console.log(arr[1]);
 let answer = prompt("Есть ли Вам 18?", "Да");
 console.log(typeof(answer));
 */
-let incr = 10,
+let incr = 9,
     decr = 10;
 
     incr++;
